@@ -1,3 +1,4 @@
+[![Translate to English](https://img.shields.io/badge/Translate_to-English-blue?style=for-the-badge&logo=googletranslate)](https://github.com/amdreh/tratamento_de_dados/blob/main/README_EN.md)
 # Limpeza e Padronização de Base de Dados no Google Sheets
 
 ## Descrição
